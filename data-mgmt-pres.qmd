@@ -1,0 +1,61 @@
+---
+title: "Data 🤨 Management ?"
+date: "2022-10-10"
+author: "Althea Marks"
+institute: "National Center for Ecological Analysis and Synthesis (former Z-lab grad student)"
+format: 
+  revealjs:
+    theme: solarized
+---
+
+## Have you ever...
+
+::: incremental
+-   Shared a Google Drive or Dropbox with many other people?
+
+-   Had a file named like this:\
+    `Final fall Thesis-Final.v3.dz edits.docx`
+
+-   Tried using scientific methods from a published paper?
+
+-   Started at an excel column name wonder what the heck it was suppose to be?
+:::
+
+## Have you ever...
+
+```{=html}
+<iframe src="https://giphy.com/embed/RLto4CKjskj6TzOlp7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-season-2-adult-swim-rick-and-morty-RLto4CKjskj6TzOlp7"></a></p>
+
+```
+
+## All of these are data management issues!
+
+From your personal computer to collaborating with other scientists
+
+### Why am I here?
+
+-   I've experienced the struggles of coming into a new lab and setting up my own research
+-   Data management is often not formally taught
+-   Essential skill that I want to share with you!
+
+## What will we talk about?
+
+::: columns
+::: {.column width="75%"}
+![](pyramid.svg)
+:::
+
+::: {.column width="25%"}
+-   Metadata
+-   Methodology & Protocols
+-   Read-only files
+-   File formats
+-   File naming
+:::
+:::
+
+## Open-Science
+
+### Benefits
+
+-   Open-source articles more likely to be cited
